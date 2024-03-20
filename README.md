@@ -15,5 +15,3 @@
 ## 🗽Statistics (which means really nothing btw...)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nahimr&theme=dark)](https://git.io/streak-stats)
-
-_Want to reach me ? send me an email at nzero666@proton.me_
